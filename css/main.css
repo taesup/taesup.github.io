@@ -27,3 +27,7 @@ html, body {
 .horizontal_center {
   margin: auto;
 }
+
+.padding_bottom_40 {
+  padding-bottom: 40px;
+}
