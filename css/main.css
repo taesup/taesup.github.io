@@ -1,0 +1,29 @@
+html, body {
+  font-family: 'Droid Sans Mono', sans-serif;
+}
+
+.title {
+  margin:auto; 
+  width: 220px;
+}
+
+.title_font {
+  font-family: 'Fjalla One', sans-serif;
+}
+
+.header {
+  font-family: 'Average Sans', sans-serif;
+  font-size: 16px;
+}
+
+.text {
+  font-family: 'Droid Sans Mono', sans-serif;
+}
+
+.set_width {
+  width: 400px;
+}
+
+.horizontal_center {
+  margin: auto;
+}
